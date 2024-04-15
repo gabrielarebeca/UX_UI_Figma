@@ -8,3 +8,12 @@
 
 ![image](https://github.com/gabrielarebeca/UX_UI_Figma/assets/110422932/0aea3c1f-c10f-4c73-be3e-17af1292c59e)
 
+<h1>Guia de Estilo
+<h2>Paleta de Cor
+  
+![image](https://github.com/gabrielarebeca/UX_UI_Figma/assets/110422932/50da6e52-3057-4e6b-b921-6c5ff3086297)
+
+<h2>Fonte
+
+![image](https://github.com/gabrielarebeca/UX_UI_Figma/assets/110422932/fbe68362-7e71-4604-accf-1215fec4d41e)
+
