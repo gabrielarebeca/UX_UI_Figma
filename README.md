@@ -2,7 +2,7 @@
 
 <h1>Wireframe
 
-![image](https://github.com/gabrielarebeca/UX_UI_Figma/assets/110422932/bd6455c8-aecf-47a4-a908-8581ec883a4b)
+![image](https://github.com/gabrielarebeca/UX_UI_Figma/assets/110422932/ab112f05-b2df-4b15-b6e4-61d983979cba)
 
 <h1>Wireflow
 
