@@ -2,14 +2,14 @@
 
 <h1>Wireframe
 
-![image](https://github.com/gabrielarebeca/UX_UI_Figma/assets/110422932/ab112f05-b2df-4b15-b6e4-61d983979cba)
+![image](https://github.com/gabrielarebeca/UX_UI_Figma/assets/110422932/ace0d6ae-ae2e-4c3d-8387-51fc1aa9785e)
 
 <h1>Wireflow
 
-![image](https://github.com/gabrielarebeca/UX_UI_Figma/assets/110422932/0aea3c1f-c10f-4c73-be3e-17af1292c59e)
+![image](https://github.com/gabrielarebeca/UX_UI_Figma/assets/110422932/640bcb73-ecaf-459f-a4fa-65aba96e1a45)
 
 <h1>Guia de Estilo
-<h2>Paleta de Cor
+<h2>Paleta de Cores
   
 ![image](https://github.com/gabrielarebeca/UX_UI_Figma/assets/110422932/50da6e52-3057-4e6b-b921-6c5ff3086297)
 
