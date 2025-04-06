@@ -1,34 +1,51 @@
-# Desafio UX/UI com Figma
+# 🎨 Figma Wireframes
 
-Este repositório contém os arquivos relacionados ao desafio de UX/UI, incluindo wireframes, wireflows e guias de estilo desenvolvidos no Figma.
+Este repositório contém wireframes, wireflows e elementos de design desenvolvidos no Figma como parte de um desafio de UX/UI.
 
-## Conteúdo do Repositório
+## 📁 Conteúdo
 
-- **Desafio_UX_UI.fig**: Arquivo principal do Figma contendo todos os designs e protótipos.
+- `Desafio_UX_UI.fig`: Arquivo principal com os wireframes e protótipos.
+- Estrutura de navegação (wireflow).
+- Guia de estilo com tipografia e cores.
 
-## Wireframe
+## 🛠️ Como Usar
+
+1. Baixe o arquivo `Desafio_UX_UI.fig`.
+2. Importe no [Figma](https://figma.com) para visualizar ou editar o projeto.
+3. Explore os frames para entender a proposta de navegação, layout e identidade visual.
+
+## 🧩 Recursos do Design
+
+### Wireframes
+Protótipos de telas com foco em estrutura e usabilidade.
+
+### Wireflow
+Representação do fluxo de navegação entre telas.
+
+### Guia de Estilo
+- **Cores:** Paleta visual principal do projeto.
+- **Tipografia:** Fontes utilizadas nos layouts.
+
+## 📌 Objetivo
+
+Este projeto foi desenvolvido para treinar habilidades de design de interface e experiência do usuário usando Figma. Ele serve como base visual para futuros projetos front-end.
+
+## 📸 Prévias Visuais
+
+### Wireframe
 
 ![image](https://github.com/gabrielarebeca/UX_UI_Figma/assets/110422932/ace0d6ae-ae2e-4c3d-8387-51fc1aa9785e)
 
-## Wireflow
+### Wireflow
 
 ![image](https://github.com/gabrielarebeca/UX_UI_Figma/assets/110422932/640bcb73-ecaf-459f-a4fa-65aba96e1a45)
 
-## Guia de Estilo
+### Guia de Estilo
 
-### Paleta de Cores
+#### Paleta de Cores
 
 ![image](https://github.com/gabrielarebeca/UX_UI_Figma/assets/110422932/50da6e52-3057-4e6b-b921-6c5ff3086297)
 
-### Tipografia
+#### Tipografia
 
 ![image](https://github.com/gabrielarebeca/UX_UI_Figma/assets/110422932/fbe68362-7e71-4604-accf-1215fec4d41e)
-
-## Como Visualizar os Arquivos
-
-1. Baixe o arquivo `Desafio_UX_UI.fig` para o seu computador.
-2. Importe o arquivo no [Figma](https://www.figma.com/) para visualizar e editar os designs.
-
-## Sobre o Projeto
-
-Este projeto foi desenvolvido como parte de um desafio de UX/UI, focando na criação de interfaces intuitivas e esteticamente agradáveis. O objetivo é fornecer uma experiência de usuário coesa e eficiente.
