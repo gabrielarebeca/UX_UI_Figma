@@ -8,21 +8,21 @@ Este repositório contém os arquivos relacionados ao desafio de UX/UI, incluind
 
 ## Wireframe
 
-![Wireframe](link_para_imagem_wireframe)
+![image](https://github.com/gabrielarebeca/UX_UI_Figma/assets/110422932/ace0d6ae-ae2e-4c3d-8387-51fc1aa9785e)
 
 ## Wireflow
 
-![Wireflow](link_para_imagem_wireflow)
+![image](https://github.com/gabrielarebeca/UX_UI_Figma/assets/110422932/640bcb73-ecaf-459f-a4fa-65aba96e1a45)
 
 ## Guia de Estilo
 
 ### Paleta de Cores
 
-![Paleta de Cores](link_para_imagem_paleta_cores)
+![image](https://github.com/gabrielarebeca/UX_UI_Figma/assets/110422932/50da6e52-3057-4e6b-b921-6c5ff3086297)
 
 ### Tipografia
 
-![Tipografia](link_para_imagem_tipografia)
+![image](https://github.com/gabrielarebeca/UX_UI_Figma/assets/110422932/fbe68362-7e71-4604-accf-1215fec4d41e)
 
 ## Como Visualizar os Arquivos
 
@@ -32,21 +32,3 @@ Este repositório contém os arquivos relacionados ao desafio de UX/UI, incluind
 ## Sobre o Projeto
 
 Este projeto foi desenvolvido como parte de um desafio de UX/UI, focando na criação de interfaces intuitivas e esteticamente agradáveis. O objetivo é fornecer uma experiência de usuário coesa e eficiente.
-
-<h1>Wireframe
-
-![image](https://github.com/gabrielarebeca/UX_UI_Figma/assets/110422932/ace0d6ae-ae2e-4c3d-8387-51fc1aa9785e)
-
-<h1>Wireflow
-
-![image](https://github.com/gabrielarebeca/UX_UI_Figma/assets/110422932/640bcb73-ecaf-459f-a4fa-65aba96e1a45)
-
-<h1>Guia de Estilo
-<h2>Paleta de Cores
-  
-![image](https://github.com/gabrielarebeca/UX_UI_Figma/assets/110422932/50da6e52-3057-4e6b-b921-6c5ff3086297)
-
-<h2>Fonte
-
-![image](https://github.com/gabrielarebeca/UX_UI_Figma/assets/110422932/fbe68362-7e71-4604-accf-1215fec4d41e)
-
